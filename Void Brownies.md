@@ -14,7 +14,7 @@ Ingredients
  + 1 cup sugar, sifted
  + 1 cup brown sugar, sifted
  + 8 ounces melted butter
- + 1 1/4 cups cocoa, sifted
+ + 1 1/4 cups dark cocoa, sifted
  + 2 teaspoons vanilla extract
  + 1/2 cup flour, sifted
  + 1 to 1/2 teaspoon kosher salt (depending on how salty you want them to be)
@@ -30,3 +30,4 @@ In a mixer fitted with a whisk attachment, beat the eggs at medium speed until f
 
 Pour the batter into a greased and floured 8-inch square pan and bake for 45 minutes. Check for doneness with the tried-and-true toothpick method: a toothpick inserted into the center of the pan should come out clean. When it's done, remove to a rack to cool. Resist the temptation to cut into it until it's mostly cool.
 
+Lucy: I have been informed that if one can manage to leave it (or portions of it) at room temperature and uneaten for 24 hours or so it will develop a nice brandy flavor. 
